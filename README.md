@@ -1,3 +1,5 @@
+# 0201-ps-DivideAndConquer
+<br><hr>
 ### [17829번: 222-풀링](https://www.acmicpc.net/problem/17829)(이찬민)
   - 4분면 분할 하여 결과를 도출하는 것이 키포인트
   - 탈출조건
